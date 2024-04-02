@@ -1,2 +1,4 @@
-# project_sf_2
-Still Factory Home work 2
+# Here we are
+## Skill factory learning project. HW2
+I'm going to create a small project repo for developers here.
+
