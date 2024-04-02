@@ -1,0 +1,16 @@
+[user]
+        name = Pavel Agapov
+        email = paffka80@gmail.com
+[alias]
+        history = log --graph
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+[remote "origin"]
+        url = git@github.com:apaffka/project_sf_2.git
+        fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "develop"]
+        remote = origin
+        merge = refs/heads/develop
